@@ -1,6 +1,6 @@
 # Bonjour, je m'appelle Clément !
 
-## 🚀 Débutant en Développement Web | Motivé et Curieux 
+## Débutant en Développement Web | Motivé et Curieux 
 
 Je débute dans le développement web et je suis actuellement en train d’apprendre **HTML, CSS et JavaScript**. Mon objectif est de devenir développeur web et de créer mes propres projets !  
 
